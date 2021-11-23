@@ -1,2 +1,7 @@
-# coloracao_grafos
-Teoria dos Grafos: Coloração
+# Teoria dos Grafos: Coloração
+
+Componentes:
+- Fábio Duarte
+- Gabriel Calheiros
+- Manoel Neto
+- Renato Santos
